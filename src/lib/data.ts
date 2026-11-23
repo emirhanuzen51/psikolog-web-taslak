@@ -1,12 +1,12 @@
 // Kişi ve iletişim bilgileri yayından önce doğrulanmış bilgilerle güncellenmelidir.
 // Çalışma alanları ve yaklaşımlar, psikoloğun gerçek eğitim ve yetkinliklerine göre güncellenmelidir.
 export const pro = {
-  name: "Psk. Ad Soyad",
+  name: "Psk. Klinik Psikolog",
   title: "Psikolog", // unvan (ör. Uzman Klinik Psikolog) yalnızca belgelere göre yazılmalıdır
   address: "Örnek Mah. Örnek Sok. No:1, Şehir",
   phoneDisplay: "+90 (000) 000 00 00",
   phoneHref: "tel:+900000000000",
-  email: "iletisim@icalanpsikoloji.com",
+  email: "iletisim@psikolog-taslak.com",
   hours: "Hafta içi 10:00 – 19:00 (randevu ile)",
 };
 

@@ -73,8 +73,8 @@ export function Logo({ light = false }: { light?: boolean }) {
   return (
     <span className={`flex items-center gap-2.5 font-serif text-[1.7rem] italic leading-none ${light ? "text-ivory" : "text-earth"}`}>
       <Blob seeds={[1, 4]} duration={14} className="h-7 w-7 text-rose" />
-      iç alan.
-      <span className={`not-italic font-sans text-[10px] uppercase tracking-[0.26em] ${light ? "text-ivory/60" : "text-muted"}`}>Psikoloji</span>
+      psikolog.
+      <span className={`not-italic font-sans text-[10px] uppercase tracking-[0.26em] ${light ? "text-ivory/60" : "text-muted"}`}>Danışmanlık</span>
     </span>
   );
 }
@@ -600,7 +600,7 @@ export function Footer() {
         </div>
         <div className="flex gap-6">
           <Link href="/kvkk" className="hover:text-earth">KVKK</Link>
-          <span>© {new Date().getFullYear()} İç Alan Psikoloji</span>
+          <span>© {new Date().getFullYear()} Psikolog Web Taslağı</span>
         </div>
       </div>
     </footer>

@@ -3,7 +3,7 @@ import Link from "next/link";
 import { pro } from "@/lib/data";
 import { Logo } from "@/components/site";
 
-export const metadata: Metadata = { title: "KVKK Aydınlatma Metni | İç Alan Psikoloji" };
+export const metadata: Metadata = { title: "KVKK Aydınlatma Metni | Psikolog" };
 
 // NOT: Taslak metindir; yayından önce hukuk kontrolünden geçirilmelidir.
 export default function Page() {

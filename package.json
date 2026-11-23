@@ -1,8 +1,8 @@
 {
-  "name": "ic-alan-psikoloji",
+  "name": "psikolog-taslak",
   "version": "1.0.0",
   "private": true,
-  "description": "İç Alan Psikoloji — psikolog web sitesi",
+  "description": "Psikolog Web Taslağı (Demo) — psikolog web sitesi",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
